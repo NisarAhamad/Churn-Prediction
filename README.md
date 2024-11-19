@@ -1,4 +1,4 @@
-# **Customer Churn Prediction**
+# **Ecom Customer Churn Prediction**
 ##### Author: Nisar Ahamad Killedar
 
 
