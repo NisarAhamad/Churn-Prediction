@@ -1,5 +1,5 @@
-# **Deep Learning Project CS470 - Customer Churn Prediction**
-##### Author: Nisar Killedar, Prabhuteja, Meghana 
+# **Customer Churn Prediction**
+##### Author: Nisar Ahamad Killedar
 
 
 ### Problem Statement
