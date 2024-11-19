@@ -1,5 +1,5 @@
-# **Machine Learning Project IA651 - Customer Churn Prediction**
-##### Author: Nisar Killedar
+# **Deep Learning Project CS470 - Customer Churn Prediction**
+##### Author: Nisar Killedar, Prabhuteja, Meghana 
 
 
 ### Problem Statement
